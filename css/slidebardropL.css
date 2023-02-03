@@ -393,7 +393,7 @@
   display: none;  
   background: -webkit-linear-gradient(top, black, silver);  
   width:auto;
-  max-width: 150px;
+  max-width: 200px;
   height:50%;
   overflow:scroll;
   border: 2px;
